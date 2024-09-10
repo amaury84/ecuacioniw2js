@@ -38,7 +38,7 @@ x2=(-b-(b**(2))); //nota que aquí la expresión matemática tiene -
 
 //Muestra los resultados de ambas x ...
 console.log("x1 = "+x1);
-console.log("x2 = ");
+console.log("x2 = "+x2);
 /*
 emplea posteriormente ciclos y funciones para solucionar
 varias ecuaciones a la vez!
